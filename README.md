@@ -9,4 +9,3 @@ https://gungcakra.github.io/LearnCode/
 
 - **HTML** - Struktur dasar website.
 - **CSS** - Styling dan tata letak website.
-- **JavaScript** - Fitur interaktif dan fungsionalitas tambahan.
